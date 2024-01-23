@@ -1,0 +1,1592 @@
+[33mcommit 0c631eeddae153f93c43a88d1fc9705bd8469cea[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Oct 30 18:15:37 2023 +0100
+
+    [Word Break II][feat]: Optimized DFS with memoization to solve Word Break II problem.
+
+[33mcommit 2eec04c662fe7894b28b22f67cc0d2d8d107bd58[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Jan 1 12:30:25 2024 +0100
+
+    [Maximum Score Words Formed by Letters][feat]: Optimized solution for maximum score words problem.
+
+[33mcommit 1f4ace3f57386af34ac5a6fa4b82a6443b38b31d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Mar 5 20:00:00 2024 +0100
+
+    [The Number of Beautiful Subsets][feat]: Optimized solution for beautiful subsets problem.
+
+[33mcommit 5fc205eba3a2d6ce481c61bbe686e74d0a2be49e[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed May 22 23:56:52 2024 +0200
+
+    [Palindrome Partitioning][feat]: Added palindrome partitioning function with optimizations and testing.
+
+[33mcommit 1faf1ac00e23b908fa5343e7a26aa36a7d0ff6c9[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Dec 13 20:00:00 2023 +0100
+
+    [Subsets][feat]: Implemented backtracking solution to generate all subsets
+
+[33mcommit 3c9b46d442003d5c403bda1f6f9576927d08df5d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon May 20 23:45:19 2024 +0200
+
+    [Sum of All Subset XOR Totals][feat]: Optimized function to calculate the sum of XOR totals for all subsets.
+
+[33mcommit a58d11ba66f4ef9883082798ccddc2787c6022c9[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Mar 18 22:35:12 2024 +0100
+
+    [Find the Maximum Sum of Node Values][feat]: Rewrote the function to ensure correct computation of maximum possible sum of tree node values after XOR operations.
+
+[33mcommit 002c7698c44e0a4bd8391cb9388439af5a9f885e[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Dec 9 19:00:00 2023 +0100
+
+    [Distribute Coins in Binary Tree][feat]: Implement optimized solution for coin distribution in binary tree with tests.
+
+[33mcommit c7469d761ffc15c2ec9dbc75e8b98835f541f6c6[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu May 16 21:00:00 2024 +0200
+
+    [Delete Leaves With a Given Value][feat]: Fixed attribute names from French to English to match TreeNode definition
+
+[33mcommit 9c9adbde6ff5f0696f57d97af99a1fea21994393[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri May 17 22:25:00 2024 +0200
+
+    [Evaluate Boolean Binary Tree][feat]: Optimized boolean binary tree evaluation function with comprehensive tests.
+
+[33mcommit bcc540865fdeb855b8eb325aaa16fbe7e4bd04ad[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Nov 9 19:50:00 2023 +0100
+
+    [Find the Safest Path in a Grid][feat]: Optimized solution for finding the safest path in a grid.
+
+[33mcommit afe628100826d558f95dfdf9ac75122808ec90e3[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue May 14 22:13:36 2024 +0200
+
+    [Path with Maximum Gold][feat]: Return the maximum amount of gold that can be collected from a gold mine grid.
+
+[33mcommit ce31e87672f3b1c69fa7d61584dd2c156c9a6181[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon May 13 22:56:30 2024 +0200
+
+    [Score After Flipping Matrix][feat]: Implement optimized strategy to maximize binary matrix score by row and column flips.
+
+[33mcommit 274ea2f8f9c9b2437dab6e79841d71a4dbec0093[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun May 12 23:09:23 2024 +0200
+
+    [Largest Local Values in a Matrix][feat]: Add optimized function to calculate max value in each 3x3 sub-grid of a given matrix.
+
+[33mcommit 432e8ac13a3556ed628c35cc597bc084c3815dde[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Feb 22 18:32:00 2024 +0100
+
+    [Minimum Cost to Hire K Workers][feat]: Add minimum cost hiring function with optimized space and time complexity.
+
+[33mcommit ceaec559215b24898e46c293d4a655e0d2225ec1[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Dec 27 20:00:00 2023 +0100
+
+    [Minimum Difficulty of a Job Schedule][feat]: Implement minimum job scheduling difficulty calculation
+
+[33mcommit 1b5069fa74d71ab586867262e8d65a832719f7fe[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri May 10 22:57:31 2024 +0200
+
+    [K-th Smallest Prime Fraction][feat]: Add function to find the k-th smallest prime fraction from a sorted array.
+
+[33mcommit 4362f1fe33ddabfccc095d9705bfee1795987e3b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu May 9 23:59:49 2024 +0200
+
+    [Maximize Happiness of Selected Children][feat]: initial commit
+
+[33mcommit 62eb13bcd2e403dd60d34a05411b33acf412d9f8[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed May 8 22:55:36 2024 +0200
+
+    [Relative Ranks][feat]: Add function to rank athletes based on their scores with medals and numeric ranks.
+
+[33mcommit c4de02dde0e322eb1b1fb6a99dff4346397ea737[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue May 7 23:18:13 2024 +0200
+
+    [Double a Number Represented as a Linked List][feat]: Implement doubling linked list number representation.
+
+[33mcommit 0ce81fcfcbf77ae15b699bd386b63ab01b3ef9f4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon May 6 23:19:30 2024 +0200
+
+    [Remove Nodes From Linked List][feat]: Remove nodes with greater values to the right in linked list.
+
+[33mcommit 023241e0c1a3f6083936f46c6760b6ade3283807[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun May 5 20:00:00 2024 +0200
+
+    [Delete Node in a Linked List][feat]: Delete a given node from a linked list, implementing in-place modification.
+
+[33mcommit 28d5775c8f9daf97c7c2990d866cccde0e03e9f2[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Oct 10 20:00:00 2023 +0200
+
+    [Boats to Save People][feat]: Optimize boat allocation for weight limit
+
+[33mcommit ee950f9e289d7b848237b9ed6b22e9d0442e559d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Apr 28 18:07:55 2023 +0200
+
+    [Largest Positive Integer That Exists With Its Negative][feat]: Add solution for finding the largest positive integer existing with its negative.
+
+[33mcommit 6ecea8d3b7e6df1de0a6c0d9061464b1ea8bb1b2[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Apr 24 20:00:00 2024 +0200
+
+    [Largest Positive Integer That Exists With Its Negative][feat]: Add solution for finding the largest positive integer existing with its negative.
+
+[33mcommit b25127e6883471be373a59ee5e6f909536e0fef5[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed May 1 06:47:20 2024 +0200
+
+    [Reverse Prefix of Word][feat]: Add function to reverse prefix in string up to specified character.
+
+[33mcommit 4afbc454a51ad5cd4feed4cd03b9448209c0df5e[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Apr 30 20:49:17 2024 +0200
+
+    [Number of Wonderful Substrings][feat]: Added function to count wonderful substrings based on character occurrence constraints.
+
+[33mcommit d30c96dca5c05cd384f87245a60af536350f5f7a[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Apr 30 20:47:18 2024 +0200
+
+    [Number of Wonderful Substrings][feat]: Added function to count wonderful substrings based on character occurrence constraints.
+
+[33mcommit 06f97581c4b6d2c505615cce66449a8ddedb0468[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Apr 29 06:05:59 2024 +0200
+
+    [Minimum Number of Operations to Make Array XOR Equal to K][feat]: Add function to calculate minimum bit flips to achieve target XOR.
+
+[33mcommit abbcbe3846c49a834ee17e56559102e22330994f[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Apr 28 23:00:24 2024 +0200
+
+    [Sum of Distances in Tree][feat]: Implemented efficient tree distance calculation using DFS.
+
+[33mcommit dec50c688578e1157903fabbb259b97af8106676[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Apr 27 17:32:42 2024 +0200
+
+    [Freedom Trail][feat]: Add optimized solution for spelling sequence from circular ring configuration.
+
+[33mcommit d56832bbfceaea4a3b8e6c4c57d2856e6d18885f[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Apr 26 23:18:49 2024 +0200
+
+    [Minimum Falling Path Sum 2][feat]: Add functionality to calculate minimum falling path sum with non-zero shifts in matrix.
+
+[33mcommit f83e612988375b5bda88ebcc598f0a8600ff0cc9[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Apr 25 22:28:29 2024 +0200
+
+    [Longest Ideal Subsequence][feat]: Add longestIdealString function to compute the longest ideal subsequence length.
+
+[33mcommit 4be5a6dc9dbfc49fd0d2e905ec002d9327c43e02[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Apr 24 23:05:30 2024 +0200
+
+    [Tribonacci Number][feat]: Add Tribonacci sequence calculation function.
+
+[33mcommit 57e292dde7b140d43042bf74decd6113da09a218[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Apr 23 21:46:55 2024 +0200
+
+    [Regular Expression Matching][feat]: Added regular expression matching function with support for '.' and '*' characters.
+
+[33mcommit ece5062814c9d01b2e70fd13e2612784859c6e96[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Apr 17 20:00:00 2024 +0200
+
+    [Minimum Height Trees][feat]: Add function to identify all potential MHT root nodes.
+
+[33mcommit 23645a206c04cbe66b00479b4b841915511f2c2b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Apr 22 22:32:58 2024 +0200
+
+    [Open the lock][feat]: Implement bidirectional BFS
+
+[33mcommit 0aca2c3decedd8e1138383a869c7d10a7e36b50b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Apr 21 23:55:32 2024 +0200
+
+    [Find if Path Exists in Graph][feat]: Add solution to check path existence in graph
+
+[33mcommit cc66ae71d0bd24083363bc63e1d1314189dfc4c4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Apr 20 22:49:08 2024 +0200
+
+    [Find All Group of Farmland][feat]: Implement findFarmland function to locate farmland groups in a matrix.
+
+[33mcommit c41af8a42aa81dbef8cfbfae62ae53378f03c000[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Apr 19 19:23:54 2024 +0200
+
+    [Number of Islands][feat]: Implement island counting in a grid.
+
+[33mcommit 985326cbe33a3c6a6f9be9283def4a2524039167[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Apr 18 23:19:34 2024 +0200
+
+    [Island Perimeter][feat]: Add solution for calculating the perimeter of an island in a grid.
+
+[33mcommit a234b507d78761a9a68b33b95afe0af3450c7f6e[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Apr 16 20:00:00 2024 +0200
+
+    [Smallest String Starting From Leaf][feat]: Add solution to find the smallest lexicographical string from leaf to root in a binary tree.
+
+[33mcommit b60196cf4945f91f013df6dd1ffb0753aaff07db[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Oct 11 20:00:00 2023 +0200
+
+    [Add One Row to Tree][feat]: Add row to binary tree at specified depth with given value.
+
+[33mcommit 32d8b3b401d7607c5ba835661462efda8256920a[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Oct 12 18:00:00 2023 +0200
+
+    [Sum Root to Leaf Numbers][feat]: Add sum of root-to-leaf numbers using DFS
+
+[33mcommit 2905932462871c69dbc5b70b6028487c31a92cdc[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Apr 12 20:00:00 2024 +0200
+
+    [Sum of Left Leaves][feat]: Add function to sum values of left leaves in binary tree.
+
+[33mcommit d3c0619f286fc36de0c493d9ceca947fb45cf6b2[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Apr 13 22:07:12 2024 +0200
+
+    [Maximal rectangle][feat]: Add maximalRectangle function to find the largest all-one rectangle in a binary matrix.
+
+[33mcommit 931e0ee1232f371748fd5edfbf33fbdbdcbe2a1b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Mar 9 20:00:00 2024 +0100
+
+    [Convert Sorted Array to Binary Search Tree][feat]: Add function to convert sorted array to height-balanced BST.
+
+[33mcommit 48cbe666348997adc5e385517faf24357d62703b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Mar 18 23:00:00 2024 +0100
+
+    [Maximum Depth of Binary Tree][feat]: Calculate maximum depth of a binary tree.
+
+[33mcommit b4acd847302547afbfaa711c3da78900b40c2cf3[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Mar 13 20:00:00 2024 +0100
+
+    [Merge Sorted Array][feat]: Merge two sorted arrays in-place.
+
+[33mcommit 753743840ef38a84c68bb1cbabdb43c67f114363[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Nov 9 22:00:00 2023 +0100
+
+    [Symmetric Tree][feat]: Add function to check tree symmetry
+
+[33mcommit 7c90b80b556b753505734bd155066bb805d65afb[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Oct 13 17:42:12 2023 +0200
+
+    [Trapping Rain Water][feat]: Add water trapping algorithm on elevation map
+
+[33mcommit ace62b689a7f357ad17395303b70eb1717f22f96[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Apr 11 06:15:17 2024 +0200
+
+    [Remove K Digits][feat]:     Add optimized code for reducing number by removing k digits
+
+[33mcommit e14374ce3cf24bfe85c42a944a7bad540f352e08[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Apr 10 13:12:54 2024 +0200
+
+    [Reveal Cards In Increasing Order][feat]: Reproduced the specified pattern.
+
+[33mcommit 6b58c30ce32929f0cfa78e974720a131d36f6f52[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Dec 23 17:00:00 2023 +0100
+
+    [Remove Duplicates from Sorted List][feat]: Initial commit
+
+[33mcommit f36c8a187f778dde0234e8142c7be905678992ff[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Feb 20 20:18:00 2024 +0100
+
+    [Sqrt(x)][feat]: Add integer square root calculation without built-in exponent function
+
+[33mcommit 92552c43244ae1525491246d7aff03a796aae364[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Mar 5 20:00:00 2024 +0100
+
+    [Search Insert Position][feat]: Added binary search solution for the Search Insert Position problem.
+
+[33mcommit 0e0adf8923be0b07fc6bb201915f7104875f5d5b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Jan 1 18:00:00 2024 +0100
+
+    [Add Binary][feat]: Add function to sum two binary strings
+
+[33mcommit e1c72932daea07595e7dc01da61474f849772006[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Apr 9 22:37:40 2024 +0200
+
+    Revert "[Plus One][feat]: Add plus one to array representation of integer"
+    
+    This reverts commit 9332ad6b31088db8a439a6d6a2ca19bfbe5b6b6b.
+
+[33mcommit 9332ad6b31088db8a439a6d6a2ca19bfbe5b6b6b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Apr 9 22:36:24 2024 +0200
+
+    [Plus One][feat]: Add plus one to array representation of integer
+
+[33mcommit b4c9738525627886f1d50bea0367896bc788fd7f[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Apr 9 22:29:57 2024 +0200
+
+    [Time Needed to Buy Tickets][feat]: Add optimized ticket buying time calculation function
+
+[33mcommit 2fd0e4f3d872dadac64f8238fba88d593c491158[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Apr 8 22:18:00 2024 +0200
+
+    [Number of Students Unable to Eat Lunch][feat]: Response format implemented as requested.
+
+[33mcommit cfcad452cf054414be0ab080f77b32465a2e1737[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Apr 8 22:16:35 2024 +0200
+
+    [Number of Students Unable to Eat Lunch][feat]: Response format implemented as requested.
+
+[33mcommit f678fe5939e64ae5ad9b33088733b36e44246ccd[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Apr 7 15:55:03 2024 +0200
+
+    [[Valid Parenthesis String][feat]: Add function to validate parentheses string with wildcard
+
+[33mcommit 7f8fe748346e6bfa12297fb661f8b6bfdada271f[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Apr 6 19:36:59 2024 +0200
+
+    [Minimum Remove to Make Valid Parentheses][feat]: Add optimized solution for removing minimum parentheses to make string valid
+
+[33mcommit d596d13cb38cd5cbb1926f3b5703916e6ed63430[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Apr 5 22:06:17 2024 +0200
+
+    [Make The String Great][feat]: Optimize string cleaning function for removing adjacent letter pairs
+
+[33mcommit 3e6c4466bbd86228499f566d0091b91b27eece54[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Apr 4 22:10:51 2024 +0200
+
+    [Maximum Nesting Depth of the Parentheses][feat]: Added maxDepth function to calculate maximum nesting depth of parentheses in a string.
+
+[33mcommit 891eec8bda6b68a1d8efd2103f50ed94886b05c0[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Apr 3 21:39:46 2024 +0200
+
+    [Word Search][feat]: Add word search in grid functionality
+
+[33mcommit 8446362c88dac714773416801d42c6c83987f2fd[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Oct 20 20:00:00 2023 +0200
+
+    [Permutations][feat]: Add permutation generator using backtracking
+
+[33mcommit 3aefe62eae1f4ef408970238244cea48dbfec645[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Nov 4 20:00:00 2023 +0100
+
+    [Jump Game II][feat]: Implement jump function to minimize steps to end
+
+[33mcommit c625fbfb6a769c723bb5007dbd369739e90eb44b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Nov 11 20:00:00 2023 +0100
+
+    [Multiply Strings][feat]: Implement string multiplication without direct integer conversion.
+
+[33mcommit 152361c87bcd0a40841aef7711a36cddbe1cb2bc[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Nov 23 20:00:00 2023 +0100
+
+    [Combination Sum II][feat]: Implement combinationSum2 to find unique combinations of numbers summing to target.
+
+[33mcommit 573d1a952953207b8dadca54c9c9477a2c7869f7[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Dec 2 19:08:00 2023 +0100
+
+    [Combination Sum][feat]: Add combinationSum function to find unique combinations summing to target
+
+[33mcommit 895c9721d3b7b2a0a4ef2fc5717617235d593982[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Dec 9 20:00:00 2023 +0100
+
+    [Count and Say][feat]: Add countAndSay function to generate nth term of the sequence.
+
+[33mcommit ace20d47376bb430763bb938a8f7fa1228a59dbc[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Dec 13 20:00:00 2023 +0100
+
+    [Valid Sudoku][feat]: Check Sudoku board validity
+
+[33mcommit a42647d3543b5092ef4e2cdc10eb9f99138c9cfe[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Dec 20 20:00:00 2023 +0100
+
+    [Find First and Last Position of Element in Sorted Array][feat]: Implement binary search to find start and end positions of target in sorted array.
+
+[33mcommit a406a3323abab63076a18ab645c3fcbf02a4aae0[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Dec 17 20:00:00 2023 +0100
+
+    [Search in Rotated Sorted Array][feat]: Implement binary search in a rotated sorted array.
+
+[33mcommit fc60aa42deda13585e54e138706ba50c527383e1[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Dec 27 19:00:00 2023 +0100
+
+    [Next Permutation][feat]: Find and apply the next lexicographically greater permutation.
+
+[33mcommit 2ffb7fb4f5a2b87a6680484b3627b0b490a0799c[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Dec 29 20:00:00 2023 +0100
+
+    [Divide Two Integers][feat]: Implement integer division without multiplication, division, and mod operators
+
+[33mcommit f655cff55a0dc972d32ee05cad776dca198d720a[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Apr 2 22:11:40 2024 +0200
+
+    [Isomorphic Strings][feat]: Added isIsomorphic function to determine if two strings are isomorphic.
+
+[33mcommit dde25213359e6fe7662282c1d10d2cee34ffcdd2[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Jan 4 18:04:00 2024 +0100
+
+    [Swap Nodes in Pairs][feat]: Swap adjacent nodes in linked list without altering node values.
+
+[33mcommit 591cc8789effd0bb482a7ebad09329c0ce32190b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Mar 30 20:00:00 2024 +0100
+
+    [Generate Parentheses][feat]: Add generateParenthesis function to produce well-formed parentheses combinations.
+
+[33mcommit c8850f46b178684ea8f5b7d56c57f92b5d6d8655[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Mar 21 20:00:00 2024 +0100
+
+    [4Sum][feat]: Create structured response template according to provided guidelines.
+
+[33mcommit eef9646bc0ff6169e12cec5eac4d304249476c7d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Mar 20 22:35:00 2024 +0100
+
+    [Letter Combinations of a Phone Number][feat]: Add function to generate letter combinations from phone number digits.
+
+[33mcommit c03fac9d864d3b75ed4a4d7beefcea6dee0daa8e[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Mar 17 20:00:00 2024 +0100
+
+    [3Sum Closest][feat]: Implement threeSumClosest function to find closest sum of three integers to target
+
+[33mcommit 150ef95852706f092cc3fc347e8ac92226926f68[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Mar 16 21:00:00 2024 +0100
+
+    [3Sum][feat]: Add optimized 3Sum solution with unique triplet finding
+
+[33mcommit 259f1592470fd9e47c51ac62f59758fe5b067be5[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Feb 28 20:00:00 2024 +0100
+
+    [Integer to Roman][feat]: Convert integer to Roman numeral.
+
+[33mcommit 443ced576bbf52175fd4bc2746a303ba93a8f425[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Feb 23 20:00:00 2024 +0100
+
+    [Container With Most Water][feat]: Implemented optimal solution for container with most water problem.
+
+[33mcommit b7df8209e426f15bc9b2f35407f678bd33af78dd[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Jan 23 20:00:00 2024 +0100
+
+    [String to Integer (atoi)][feat]: Implement string to integer conversion respecting 32-bit signed integer range.
+
+[33mcommit 1cb77fff83105e58e7d35e8420492ac71677f8bb[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Jan 24 20:00:00 2024 +0100
+
+    [Reverse Integer][feat]: Initial commit
+
+[33mcommit 68ab158de5a20aefd58aea5b82237c4a932fe3c0[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Jan 17 20:00:00 2024 +0100
+
+    [Zigzag Conversion][feat]: Implemented Zigzag string conversion with optimized approach.
+
+[33mcommit 24d7bc96e833643477434b94a9602dfcd3c6daf9[m
+Merge: 81f557c c067fca
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Apr 1 20:33:56 2024 +0200
+
+    Merge branch 'main' of https://github.com/Tom-Souillard/daily_algorithmic_mastery
+
+[33mcommit c067fca4a6a3ed364b0d8a2a63a11337ef7e6c6d[m
+Author: Duy-Anh Nguyen <147203600+Tom-Souillard@users.noreply.github.com>
+Date:   Mon Apr 1 19:45:40 2024 +0200
+
+    Update README.md
+
+[33mcommit 8e553846befdefc5f5d7bec2c76d013319d826e1[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Apr 1 19:28:36 2024 +0200
+
+    [Length of Last Word][feat]: Initial commit
+
+[33mcommit 388c0b679d3c7adb31037723cf4ec799f5078f08[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Mar 31 23:05:00 2024 +0200
+
+    [Count Subarrays With Fixed Bounds][feat]: Add fixed-bound subarray count function
+
+[33mcommit e17f884f98f191ac751456289145d71dc5cdf6d4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Mar 31 09:58:09 2024 +0200
+
+    [Subarrays with K Different Integers][feat]: Initial commit
+
+[33mcommit 35d98d53ced329d780acf61aaa941cdb9ebba679[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Mar 29 23:13:23 2024 +0100
+
+    [Count Subarrays Where Max Element Appears at Least K Times][feat]: Optimize subarray count with repeated max elements
+
+[33mcommit 37a28b91551c7c781541f782da36ae308b51b37a[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Mar 28 19:40:45 2024 +0100
+
+    [Find the Index of the First Occurrence in a String][feat]: Add strStr function for substring search
+
+[33mcommit af9eeb7ec4403d48e786356a4c1f9345c69ba608[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Mar 28 19:34:50 2024 +0100
+
+    [Median of Two Sorted Arrays][feat]: Initial commit
+
+[33mcommit 505d87573982bb70e308a7b3255f57c1af148ca6[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Mar 28 19:29:04 2024 +0100
+
+    [Length of Longest Subarray With at Most K Frequency][feat]: Initial commit
+
+[33mcommit 8903b50963edc7ddaeb0fddbf6f3b11c979edbfb[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Mar 27 23:41:46 2024 +0100
+
+    [Subarray Product Less Than K][feat]: Initial commit
+
+[33mcommit bd7e1de0e9a46c45d4e285ad7b693d2cf2f0dfb3[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Mar 27 23:41:12 2024 +0100
+
+    [Remove Element][feat]: Initial commit
+
+[33mcommit 9eba8c0c86e9db51319803fca1e1652cac7af4ba[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Mar 26 23:36:34 2024 +0100
+
+    [First Missing Positive][feat]: Initial commit
+
+[33mcommit 35e3616f2f2096f495923c03ac2cad63d55f2ddf[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Mar 25 23:16:49 2024 +0100
+
+    [Find All Duplicates in an Array][feat]: Initial commit
+
+[33mcommit 4472d7f36c352fb5c97390015cbf30eadb74b727[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Mar 24 23:30:32 2024 +0100
+
+    [Find the Duplicate Number][feat]: Initial commit
+
+[33mcommit 8be5a6a58d342c99ede7dfaf4a6f2533ff83765d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Mar 23 14:40:09 2024 +0100
+
+    [Reorder List][feat]: Initial commit
+
+[33mcommit f0ef5681b3f92b5bbcad2b8f55b3c5540c378fb4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Mar 22 23:35:38 2024 +0100
+
+    [Merge In Between Linked List][feat]: Initial commit
+
+[33mcommit 30e2127b7c1a323873e9c8126efc2b02bdece121[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Mar 22 23:32:48 2024 +0100
+
+    [Reverse Linked List][feat]: Initial commit
+
+[33mcommit b21a9779679825cafb2d1a2225b1e37c9177393e[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Mar 22 23:28:20 2024 +0100
+
+    [Palindrome Linked List][feat]: Initial commit
+
+[33mcommit ee301ba5f1e6bb3940a31cb42a5363407f7d049b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Mar 19 22:07:39 2024 +0100
+
+    [Task Scheduler][feat]: Initial commit
+
+[33mcommit a4b210d564ce9fd87084287e4c074f7b6870c9ee[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Mar 18 22:37:24 2024 +0100
+
+    [Minimum Number of Arrows to Burst Balloons][feat]: Initial commit
+
+[33mcommit 45d86994c9646ee2a0b44e47bd21c66be09487a1[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Mar 15 20:43:52 2024 +0100
+
+    [Product of Array Except Self][feat]: Initial commit
+
+[33mcommit 1fa19b1d6f200f3dac12efc86976a7583d1e82c1[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Mar 14 23:27:32 2024 +0100
+
+    [Binary Subarrays With Sum][feat]: Initial commit
+
+[33mcommit 5291b6bccbfb346798193b5c249fb747cc631e62[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Mar 13 12:58:49 2024 +0100
+
+    [Find the Pivot Integer][feat]: Initial commit
+
+[33mcommit 5778ae9b76161cf2c3eb12d8d3c541589ba22fe7[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Mar 12 23:15:38 2024 +0100
+
+    [Remove Zero Sum Consecutive Nodes from Linked List][feat]: Initial commit
+
+[33mcommit be9c313dd0d84573f203ed318ec34f279e8cef07[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Mar 11 21:40:58 2024 +0100
+
+    [Custom Sort String][feat]: Initial commit
+
+[33mcommit 0b15cde8ca107b2f0a61789e230b385e9ded1ed3[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Mar 10 22:48:34 2024 +0100
+
+    Intersection of Two Arrays][feat]: Initial commit
+
+[33mcommit 3ba20904ea2088486213abe29addb352cb37a97b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Mar 9 23:43:49 2024 +0100
+
+    [Minimum Common Value][feat]: Initial commit
+
+[33mcommit 4a6a29a71f87e222ba753e4d47e7b8d448422f0e[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Mar 8 14:41:06 2024 +0100
+
+    [Count Elements With Maximum Frequency][feat]: Initial commit
+
+[33mcommit a682e31c0003c3c9ce56121e34b8d1f935d0b3d9[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Mar 7 23:53:53 2024 +0100
+
+    [Middle of the linked list][feat]: Initial commit
+
+[33mcommit 479bb88c2c808d91596544e3c41b31fa5f666571[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Mar 6 23:30:46 2024 +0100
+
+    [Linked List Cycle][feat]: Initial commit
+
+[33mcommit cd1ee6e9df0baf26d4369f14c1f8e1758a06bea8[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Mar 5 22:03:59 2024 +0100
+
+    [Minimum Length of String After Deleting Similar Ends][feat]: Initial commit
+
+[33mcommit 4c77cc4a853a9f2572402071c7e9ad6ff9e469ff[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Mar 4 23:27:27 2024 +0100
+
+    [Bag of Tokens][feat]: Initial commit
+
+[33mcommit 7fb206f78d90635c5215eae9baa18c37d5a4116f[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Mar 3 17:56:59 2024 +0100
+
+    [Remove Nth Node From End of List][feat]: Initial commit
+
+[33mcommit de402eed65328b6d0b5f91ec1f306be625392141[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Mar 2 23:21:11 2024 +0100
+
+    [Squares of a Sorted Array][feat]: Initial commit
+
+[33mcommit dcc0c03b5100f41ac77f0320dd80eb6fc6a06a60[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Mar 1 15:22:03 2024 +0100
+
+    [Maximum Odd Binary Number][feat]: Initial commit
+
+[33mcommit 2f9d55040dbce3c4fb4d4a79003f67053f263925[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Feb 29 11:12:56 2024 +0100
+
+    [Even Odd Tree][feat]: Initial commit
+
+[33mcommit ed1b7e6b3a1dd9ee335dd8070267bf2ba63a5179[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Feb 29 11:11:25 2024 +0100
+
+    [Find Bottom Left][feat]: Initial commit"
+
+[33mcommit 17463c51ed1a13fe11d26edb8c6d2520857e769c[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Feb 27 22:51:38 2024 +0100
+
+    [Diameter of Binary Tree][feat]: Initial commit
+
+[33mcommit a2becfbdd25c2443fbf36620cecab568b336e0ab[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Feb 26 10:05:34 2024 +0100
+
+    [Same Tree][feat]: Initial commit
+
+[33mcommit 43f13f1f8ae7184f840f24aa17c6878ef46b1014[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Feb 25 19:09:38 2024 +0100
+
+    [Greatest Common Divisor Traversal][feat]: Initial commit
+
+[33mcommit 349e8f6eaede8ca4fbb3ba73f8ae6808da97d89b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Feb 24 23:04:53 2024 +0100
+
+    [Cheapest Flights Within K Stops][feat]: Initial commit
+
+[33mcommit fd53f3e88b1a368c920c5b1cf22bedf1f82b4e4c[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Feb 24 23:00:57 2024 +0100
+
+    [Find All People With Secret][feat]: Initial commit
+
+[33mcommit 3845b71c8a716d942e4c848810525443f2f3f6a7[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Feb 22 15:04:12 2024 +0100
+
+    [Find the Town Judge][feat]: Initial commit
+
+[33mcommit fa0f988234b32256bd43c415798eba96f5acce1c[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Feb 21 18:46:53 2024 +0100
+
+    [Bitwise AND of Numbers Range][feat]: Initial commit
+
+[33mcommit 03e27d841fc155626d4aee59d537bcea590d156b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Feb 20 20:49:15 2024 +0100
+
+    [Missing Number][feat]: Initial commit
+
+[33mcommit 62cdd089ac81553bec11719c771757df3a1a474b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Feb 19 11:25:36 2024 +0100
+
+    [Power of Two][feat]: Initial commit
+
+[33mcommit 6686226d2145d8e03dc08233f1106007bc836c3d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Feb 18 18:25:27 2024 +0100
+
+    [Meeting Rooms III][feat]: Initial commit
+
+[33mcommit a3e1a117f6e409b2893b9bd5b5f48184e95e4515[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Feb 17 21:17:04 2024 +0100
+
+    [Furthest Building You Can Reach][feat]: Initial commit
+
+[33mcommit f93f313fb26e13a17480384c12110fdfd5c91f81[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Feb 16 21:52:08 2024 +0100
+
+    [Least Number of Unique Integers after K Removals][feat]: Initial commit
+
+[33mcommit 2b218b198b254ca2ec8b633c98f7c26ca40921af[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Feb 15 18:31:51 2024 +0100
+
+    [Find Polygon With the Largest Perimeter][feat]: Initial commit
+
+[33mcommit 637726ec942367303e159c2be7bb718074ea7eb5[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Feb 14 23:22:53 2024 +0100
+
+    [Rearrange Array Elements by Sign][feat]: Initial commit
+
+[33mcommit cbd1c7dfb03e227fc8eec809fa6f95a7f600b24e[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Feb 13 09:06:58 2024 +0100
+
+    [Find First Palindromic String in the Array][feat]: Initial commit
+
+[33mcommit 1560222f2576e7a39a26192e0554fb4dc845601f[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Feb 12 23:54:36 2024 +0100
+
+    [Majority Element][feat]: Initial commit
+
+[33mcommit a50fa2a92577fb50c6ad786df06c2708e235e05a[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Feb 11 22:05:42 2024 +0100
+
+    [Cherry Pickup 2][feat]: Initial commit
+
+[33mcommit 0bc5ab1db5ee10d0d6861e5604219be5128e0bb0[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Feb 10 20:25:12 2024 +0100
+
+    [Palindromic Substrings][feat]: Initial commit
+
+[33mcommit a1beff1af90798b9e3af62e1e316ec14f02014bc[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Feb 9 17:06:36 2024 +0100
+
+    [Largest Divisible Subset][feat]: Initial commit
+
+[33mcommit 3ba031a9098a44c248474f5485a68648d1350a3b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Feb 8 12:50:18 2024 +0100
+
+    [Perfect Squares][feat]: Initial commit
+
+[33mcommit c0610518b15b6eebb2b9dfc35a8a60f35b9152ec[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Feb 7 17:55:54 2024 +0100
+
+    [Sort Characters By Frequency][feat]: Initial commit
+
+[33mcommit a7fed1fbdeeaf0a957c370d94d15f36e679b1447[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Feb 6 16:45:35 2024 +0100
+
+    [Group Anagrams][feat]: Initial commit
+
+[33mcommit 21b2bf390682808a3b596904ce531caafa37a797[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Feb 5 14:50:54 2024 +0100
+
+    [First Unique Character in a String][feat]: Initial commit
+
+[33mcommit 6fd8b73d00d6d75b83cbdac7fe03ae8e125224d5[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Feb 4 23:54:19 2024 +0100
+
+    [Minimum Window Substring][feat]: Initial commit
+
+[33mcommit 171e1a92ecefb96c95c6510131d1cd71f69796a4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Feb 3 22:12:30 2024 +0100
+
+    [Partition Array for Maximum Sum][feat]: Initial commit
+
+[33mcommit c5f75ea6e33b05fbdfbc7b998083f29e32a4a3f4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Feb 2 09:57:30 2024 +0100
+
+    [Sequential Digits][feat]: Initial commit
+
+[33mcommit ceb25034f973318469c42f90290fdde5243f9c78[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Feb 1 02:22:16 2024 +0100
+
+    [Divide Array Into Arrays With Max Difference][feat]: Initial commit
+
+[33mcommit db907af7e48d6441db0431c2a2179c304571d341[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Jan 31 09:25:59 2024 +0100
+
+    [Daily Temperatures][feat]: Initial commit
+
+[33mcommit c390f4bf40a2ca0671ed5c70eeff42ccb3b5ffdd[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Jan 30 10:01:35 2024 +0100
+
+    [Evaluate Reverse Polish Notation][feat]: Initial commit
+
+[33mcommit 3efad5468882010e0f272544d98c76b92808ad17[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Jan 29 05:43:59 2024 +0100
+
+    [Implement Queue using Stacks][feat]: Initial commit
+
+[33mcommit 799d02367e4f144bae0de087ab2ae079e53655d6[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Jan 28 11:28:39 2024 +0100
+
+    [Number of Submatrices That Sum to Target][feat]: Initial commit
+
+[33mcommit bc6b94c02cf4058a3756473c1a62d09a1b584ea4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Jan 27 18:35:19 2024 +0100
+
+    [K Inverse Pairs Array][feat]: Initial commit
+
+[33mcommit a82ffc2fdbf56f40a8d43cb2c0dad98b61830faf[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Jan 26 15:17:15 2024 +0100
+
+    [Out of Boundary Paths][feat]: Initial commit
+
+[33mcommit 3c265f117617fd48720adea2325facf8e15b5944[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Jan 25 10:21:20 2024 +0100
+
+    [Longest Common Subsequence][feat]: Initial commit
+
+[33mcommit e469709de3666e86b0bc6dac5ad18cb67f299fb5[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Jan 25 00:43:10 2024 +0100
+
+    [Pseudo-Palindromic Paths in a Binary Tree][feat]: Initial commit
+
+[33mcommit 7ce5e1912ea6858305fc90e07fbda5108e2e1d8e[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Jan 23 14:09:33 2024 +0100
+
+    [Maximum Lenght of a Concatenated][feat]: Initial commit
+
+[33mcommit ceffb9d8ab0d11d1307b7ad9c171a4439fa22569[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Jan 22 21:48:16 2024 +0100
+
+    [Set Mismatch][feat]: Initial commit
+
+[33mcommit e6be68c8c5827b12d9f8cf3a6c52a66dca66104d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Jan 21 19:48:01 2024 +0100
+
+    [House Robber][feat]: Initial commit
+
+[33mcommit a4a3dd96b47b8d434f6d5641887f8d376f323896[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Jan 20 20:35:54 2024 +0100
+
+    [Sum of Subarray Minimum][feat]: Initial commit
+
+[33mcommit 44ecc4510e470d6f4e48dad088b1e32e4f7b40a3[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Jan 19 20:13:22 2024 +0100
+
+    [Minimum Falling Path Sum][feat]: Initial commit
+
+[33mcommit 090ccf1d19cd09f5a96a66f7e4e5d3c355b5bbd4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Jan 18 20:56:26 2024 +0100
+
+    [Climbing Stairs][feat]: Initial commit
+
+[33mcommit 0adc9c81f9c54203783b15dbd22239eb4b247fca[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Jan 18 20:52:52 2024 +0100
+
+    [Add Two Numbers][feat]: Initial commit
+
+[33mcommit fa0c0cfbffdca673a24b3c03d1424908c255a991[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Jan 16 23:05:43 2024 +0100
+
+    [Insert Delete GetRandom][feat]: Initial commit
+
+[33mcommit 58548c5d72936e7e0e2439c94d9e83cfbe26520d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Jan 15 15:37:27 2024 +0100
+
+    [Determine if Two Strings Are Close][feat]: Initial commit
+
+[33mcommit 2fc3d4b88bdcafd06ee4baf924fb796a244337d7[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Jan 14 21:06:21 2024 +0100
+
+    [Determine if Two Strings Are Close][feat]: Initial commit
+
+[33mcommit 1c00e57bf55d730807f0116f249d5df06a25bdd5[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Jan 13 22:47:40 2024 +0100
+
+    [Minimum Number of Steps to Make Two Strings Anagram][feat]: Initial commit
+
+[33mcommit d02ddd2654afe3b06ccd1b2b902395ce80ccc030[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Jan 13 00:45:42 2024 +0100
+
+    [Determine if String Halves Are Alike][feat]: Initial commit
+
+[33mcommit 81f557ceb5511d31d73c5e97b03cdefcf11ee8e2[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Jan 12 00:00:00 2024 +0100
+
+    [Longest Substring Without Repeating Characters][feat]: Add lengthOfLongestSubstring function for non-repeating chars
+
+[33mcommit 6d85373e5617e6ed269314af79eb836689af8bc6[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Jan 11 22:41:12 2024 +0100
+
+    [Maximum Difference Between Node and Ancestor][feat]: Initial commit
+
+[33mcommit 1cd9421ae385d31f860e52d758cf37a5604adf6b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Jan 10 12:26:57 2024 +0100
+
+    [Amount of Time for Binary Tree to Be Infected][feat]: Initial commit
+
+[33mcommit 588e605ce045b4428f6b418598623dae61f68d54[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Jan 9 15:45:33 2024 +0100
+
+    [Leaf-Similar Trees][feat]: Initial commit
+
+[33mcommit b7e616764570b68c670f6dd1ec4d742d9f726cb6[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Jan 8 23:04:11 2024 +0100
+
+    [Range Sum of BST][feat]: Initial commit
+
+[33mcommit 37b951bdf80000874ba2697ad6b3da099975472d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Jan 7 22:35:21 2024 +0100
+
+    [Arithmetic Slices II - Subsequence][feat]: Initial commit
+
+[33mcommit ce32ce1d452f068464d6b2dfc6f469d85d40f1c7[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Jan 6 20:48:15 2024 +0100
+
+    [Maximum Profit in Job Scheduling][feat]: Initial commit
+
+[33mcommit 45b058032bad9db24b6b01d7c7cb54bde97fe1be[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Jan 5 21:50:55 2024 +0100
+
+    [Longest Increasing Subsequence][feat]: Initial commit
+
+[33mcommit 203fa3bb1af940b2934219061ff717911df684a3[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Jan 3 12:52:59 2024 +0100
+
+    [Number of Laser Beams in a Bank][feat]: Initial commit
+
+[33mcommit 3416c2294ede1f953ca3597b3e53d126ae366a52[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Jan 2 02:49:49 2024 +0100
+
+    [Convert an Array Into a 2D Array With Conditions][feat]: Initial commit
+
+[33mcommit 26e0263a0eccfd31b99dceb400738af598557abe[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Jan 1 23:22:42 2024 +0100
+
+    [Assign Cookies][feat]: Initial commit
+
+[33mcommit 10f8a1bde146fc7868e90d2cfc5d0cfff1ff99cc[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Dec 31 23:50:29 2023 +0100
+
+    [Largest Substring Between Two Equal Characters][feat]: Initial commit
+
+[33mcommit ed1072728ffdb4ec4621fcd13a63f2f0a0ea2810[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Dec 30 21:43:31 2023 +0100
+
+    [Redistribute Characters to Make All Strings Equal][feat]: Initial commit
+
+[33mcommit 775d7f42d933761bb73d5a46f7d60fbd60b84a6b[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Dec 28 23:08:00 2023 +0100
+
+    [String Compression II][feat]: Initial commit
+
+[33mcommit b4349dfc9ae4196d860d107adeb42855add8a8b4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Dec 27 22:22:04 2023 +0100
+
+    [Minimum Time to Make Rope Colorful][feat]: Initial commit
+
+[33mcommit da28f38deeaf2564e35ca9ac5d43963c57e5bc2a[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Dec 26 00:07:46 2023 +0100
+
+    [Decode Ways][feat]: Initial commit
+
+[33mcommit 4b5e1c2d7099c8c8f6b3b869a8dcbe4290395e84[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Dec 24 17:57:51 2023 +0100
+
+    [Minimum Changes To Make Alternating Binary String][feat]: Initial commit
+
+[33mcommit bb4b11c7765be7ff9c30a756183486d0c219cc8d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Dec 23 22:26:08 2023 +0100
+
+    [Path Crossing][feat]: Initial commit
+
+[33mcommit 47f8fc9b2aade34be4f4fe6a14812510b077e6b6[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Dec 22 23:52:42 2023 +0100
+
+    [Maximum Score After Splitting a String][feat]: Initial commit
+
+[33mcommit c1148bf902686effb554d29c477cbd55e0b67463[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Dec 21 15:34:09 2023 +0100
+
+    [Widest Vertical Area][feat]: Initial commit
+
+[33mcommit a592fa8aa24d3acb0670e35cf4fca0143800be98[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Dec 19 15:16:37 2023 +0100
+
+    [Image Smooth][feat]: Initial commit
+
+[33mcommit efdf5f2ff72cd73bd52f8c17846667317b1297ca[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Dec 18 22:00:39 2023 +0100
+
+    [Maximum Product Difference Between Two Pairs][feat]: Initial commit
+
+[33mcommit aad21705f884c838fbf51082d8024e43c8eb3432[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Dec 16 23:18:18 2023 +0100
+
+    [Valid Anagram][feat]: Initial commit
+
+[33mcommit 7e67902a79b46c64be27c8a957d169667b43e6fa[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Dec 15 21:06:32 2023 +0100
+
+    [Destination City][feat]: Initial commit
+
+[33mcommit 99a8cd9a7151b8f9af095fc8061a4e310a9abf76[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Dec 14 00:26:57 2023 +0100
+
+    [Special Positions in a Binary Matrix][feat]: Initial commit
+
+[33mcommit ae088b99319b86dd5cc1487703ad4d7e52b4afa7[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Dec 11 21:36:24 2023 +0100
+
+    [Element Appearing][feat]: Initial commit
+
+[33mcommit 2a67091f951048365d3ef578ab7a50439494b57c[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Dec 10 11:42:52 2023 +0100
+
+    [Transpose Matrix][feat]: Initial commit
+
+[33mcommit e7173b281f4051f8538a0e1831d683f21821ece4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Dec 10 00:38:20 2023 +0100
+
+    [Binary Tree Inorder Traversal][feat]: Initial commit
+
+[33mcommit 3962abc4fd92aefc45de80f196cf14be74ac7442[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Dec 8 23:17:24 2023 +0100
+
+    [Construct String from Binary Tree][feat]: Initial commit
+
+[33mcommit 8691f02289a0fb44d1c73e612838ef8f9da7a59a[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Dec 7 23:46:09 2023 +0100
+
+    [Largest Odd Number in String][feat]: Initial commit
+
+[33mcommit 18ac9dce2af257fe0d2ed3cb59c2f1992f25fae9[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Dec 6 23:50:45 2023 +0100
+
+    [Calculate Money in Leetcode Bank][feat]: Initial commit
+
+[33mcommit 97f154f4d17e755adcc37da706c9c0d39e14867d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Dec 5 21:41:18 2023 +0100
+
+    [Count of Matches in Tournament][feat]: Initial commit
+
+[33mcommit fbae8110c19adcf892ef5faf650c79b678d58477[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Dec 4 21:22:13 2023 +0100
+
+    [Largest 3-Same-Digit Number in String][feat]: Initial Commit
+
+[33mcommit 5af8f7186f0316a2bc85205e878f3dc341de08be[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Dec 3 17:52:51 2023 +0100
+
+    [Minimum Time Visiting All Points][feat]: Initial Commit
+
+[33mcommit f816b691f6af83e190ed427f49884a613614ae9e[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Dec 1 01:05:02 2023 +0100
+
+    [Check If Two String Arrays are Equivalent][feat]: Initial Commit
+
+[33mcommit 96693a7619dd73149fe75147a0196ecca2f6a42c[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Nov 30 14:29:31 2023 +0100
+
+    [Minimum One Bit Operation][feat]: Initial Commit
+
+[33mcommit 63ba2369acf4bfee2e2843273ab70f4f49be81ab[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Nov 29 09:50:49 2023 +0100
+
+    [Number of 1 Bits][feat]: Initial Commit
+
+[33mcommit b3f17285ba57227e5ce8988f9d3f451f0175a83d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Nov 28 22:22:46 2023 +0100
+
+    [Number of Ways to Divide a Long Corridor][feat]: Initial Commit
+
+[33mcommit 63d663fe91056acd684ac4d35ea600a3c87f2874[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Nov 27 23:33:45 2023 +0100
+
+    [Knight Dialer][feat]: Initial Commit
+
+[33mcommit 000a3341fb7562bdefddd4d89259be3c2420f206[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Nov 26 23:00:17 2023 +0100
+
+    [Largest Submatrix With Rearrangements][feat]: Initial Commit
+
+[33mcommit 558af87fa65ce3512352f033fb428f78fabfbef9[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Nov 25 20:40:10 2023 +0100
+
+    [Sum of Absolute Differences in a Sorted Array][feat]: Initial commit
+
+[33mcommit 1572252d83819eccdfae8d865e4a4f4cc4e2bd3f[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Nov 24 15:40:58 2023 +0100
+
+    [Maximum Number of Coin][feat]: Initial Commit
+
+[33mcommit 0e8761f1209e33171c373ac98c639d8d723a7174[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Nov 24 00:11:17 2023 +0100
+
+    [Arithmetic Subarrays][feat]: Initial Commit
+
+[33mcommit feda1e156014b33ef05b641d65ea7a56e7ccabf5[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Nov 22 16:20:57 2023 +0100
+
+    [Diagonal Travers 2][feat]: Initial Commit
+
+[33mcommit 68182f3d8faa86e37429bce071c30e0914890b28[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Nov 21 16:42:43 2023 +0100
+
+    [Count Nice Pairs in an Array][feat]: Initial Commit
+
+[33mcommit 5f5ba57bb7d812398f24c1b403589aadcbc86246[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Nov 20 18:38:47 2023 +0100
+
+    [Minimum Amount of Time to Collect Garbage][feat]: Initial Commit
+
+[33mcommit 9a8e686408d53a7246f607ba94951102a30ef769[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Nov 19 23:03:19 2023 +0100
+
+    [Reduction Operations][feat]: Initial commit
+
+[33mcommit b2ceb776b809d4f6a2ebaa38001ea7b43473bba4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Nov 18 10:16:29 2023 +0100
+
+    [Frequency of the Most Frequent Element][feat]: Initial commit
+
+[33mcommit 9306bfc2c3cfce6dc22be3f276640fd9d34886af[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Nov 17 10:05:34 2023 +0100
+
+    [Minimize Maximum Pair Sum in Array][feat]: Initial commit
+
+[33mcommit fad3d5f4a148457b3e0a7d05bf3b2741bf456603[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Nov 16 09:48:09 2023 +0100
+
+    [Find Unique Binary String][feat]: Initial commit
+
+[33mcommit 3e59d4b16edb769b49bcc733b15348c7008aa320[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Nov 15 09:30:20 2023 +0100
+
+    [Maximum Element After Decreasing][feat]: Initial commit
+
+[33mcommit 3c3951136b947b841c085ad800c710408034e0d7[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Nov 14 10:05:20 2023 +0100
+
+    [Remove Duplicates from Sorted Array][feat]: Initial commit
+
+[33mcommit c60da6434e2d6710b16801a955033f4bfa86eab0[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Nov 14 09:58:59 2023 +0100
+
+    [Unique Length Palindromic][feat]: Initial commit
+
+[33mcommit 6092e5822b142b48fa62aa9897f6460b8d2920ff[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Nov 13 11:33:43 2023 +0100
+
+    [Sort Vowels in a String][feat]: Initial commit
+
+[33mcommit 7d0b06969df7b28985c7dd7d2a84523feb2ca186[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Nov 12 23:58:53 2023 +0100
+
+    [Bus Routes][feat]: Initial commit
+
+[33mcommit 3b79a9cc02d7ee117fae2666c8eb899a6b2c2731[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Nov 10 23:31:30 2023 +0100
+
+    [Restore the Array From Adjacent Pairs][feat]: Initial commit
+
+[33mcommit b923780164ebb92f9008643104d4617752bc215f[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Nov 9 22:12:45 2023 +0100
+
+    [Count Number of Homogenous Substrings][feat]: Initial commit
+
+[33mcommit 704ed7840dcb1c2e128d376a164b15bfc126a562[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Nov 8 22:40:46 2023 +0100
+
+    [Determine if a Cell Is Reachable at a Given Time][feat]: Initila commit
+
+[33mcommit afe7f0e23e38172ef5e8603ffbe2a34b62f95b80[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Nov 7 06:28:41 2023 +0100
+
+    [Eliminate Maximum Number of Monsters][feat]: Initial commit
+
+[33mcommit c939a385a16d6c7a307d5b3775059d7a23594aad[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Nov 6 22:48:05 2023 +0100
+
+    [Seat reservation manager][feat]: Initial commit
+
+[33mcommit 125e5095f203c98951b9ec56928572d9aadacf5f[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Nov 5 20:04:32 2023 +0100
+
+    [Find the Winner of an Array Game][feat]: Initial commit
+
+[33mcommit 1d4b593d05e13476ac7ab1ff9f6b16ef418ee660[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Nov 3 20:30:34 2023 +0100
+
+    [Build an Array With Stack Operations][feat]: Initial commit
+
+[33mcommit 8c6442001255b10913be5799b57a5a91ed4ae4e6[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Nov 2 22:37:39 2023 +0100
+
+    Count Nodes Equal to Average of Subtree][feat]: Initial commit
+
+[33mcommit ba505c5a2894f7b8c31642bd03932c398dd90884[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Nov 1 23:06:47 2023 +0100
+
+    [Find Mode in Binary Search Tree][feat]: Initial commit
+
+[33mcommit e1e40298fe1c4afb9ae902e6a0aa6eee32a3cbf1[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Oct 31 23:47:04 2023 +0100
+
+    [Find the original array][feat]: Initial commit
+
+[33mcommit ef4e7c892504a5866a4343c51f40aabe8fe85e3a[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Oct 30 22:16:10 2023 +0100
+
+    [Merge two sorted lists][feat]: Initial commit
+
+[33mcommit ab036b56cbd2518986e49e32d24fe52cee9125ee[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Oct 30 19:01:48 2023 +0100
+
+    [Sort Integers by Bits][feat]: Initial commit
+
+[33mcommit 992f82f4608265ce867c428dfdd5f40bddf4973d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Oct 29 19:17:18 2023 +0100
+
+    [Valid Parentheses][feat]: Initial commit
+
+[33mcommit fe6b3b3796a899dcbdaddda242e9e67994dce52d[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Oct 29 19:11:08 2023 +0100
+
+    [Poor Pigs][feat]: Initial commit
+
+[33mcommit 640c6f901f2c5c2fa8a6d907e5a80f7faf255d36[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Oct 28 22:22:44 2023 +0200
+
+    [Count Vowels Permutation][feat]: Initial commit
+
+[33mcommit 8abebfc254581b043592c208f4f74e0e0b9d4f5f[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Oct 27 23:08:13 2023 +0200
+
+    [Min Cost Climbing Stairs][feat]: Initial commit
+
+[33mcommit ef11a9ee4c01e8beca4e8ad310b3ca570f00c0b5[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Fri Oct 27 22:57:29 2023 +0200
+
+    [Longest Palindromic Substring][feat]: Initial commit
+
+[33mcommit 9e4b795faa577685f42633a2f0d743e15d1793fa[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Oct 26 23:46:43 2023 +0200
+
+    [Binary Trees With Factors][feat]: Initial commit
+
+[33mcommit ad18e2e1376cb4608b3d09ca6822bdc0ae61b788[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Oct 25 23:29:17 2023 +0200
+
+    [K-th Symbol in Grammar][feat]: Initial commit
+
+[33mcommit e5aad8fead8c13dc6b942ff277eb85dff71fbf2c[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Oct 24 22:05:30 2023 +0200
+
+    [Longest Common Prefix][feat]: Initial commit
+
+[33mcommit 0388261780973a051cd8d8deb447badcde268e74[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Oct 24 21:55:49 2023 +0200
+
+    [Find Largest Value][feat]: Initial commit
+
+[33mcommit b26df6105f9926ed0a2eab0b975a34d12fc2ff50[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Oct 23 23:49:09 2023 +0200
+
+    [Power of four][feat]: Initial commit
+
+[33mcommit 88fd287089a4bd0bbedf9c34ddd1064be2ef64f4[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Oct 22 22:04:30 2023 +0200
+
+    [Max score][feat] Initial commit
+
+[33mcommit 1a7fb6299e569be3eac157cf7e9c6a24fd7af6fb[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sat Oct 21 21:03:18 2023 +0200
+
+    [Contrained subsequence sum][feat]: Initial commit
+
+[33mcommit 6e60582f647db60cae08e7befffbcd0c7dd6ae25[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Oct 19 23:53:17 2023 +0200
+
+    [Palindrome number][feat]: Initial commit
+
+[33mcommit 346787a77e0658491807c20c7ed46d3d3f3866a2[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Thu Oct 19 23:43:31 2023 +0200
+
+    [Two sum][feat]: Initial commit
+
+[33mcommit beacb41ffb521278586b3d31082547154e44d71c[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Wed Oct 18 22:13:05 2023 +0200
+
+    [Ghost in the Cell][feat]: Initial commit
+
+[33mcommit 8bc1e082380d95e308c3f0e019d4513c04731bfa[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Oct 17 22:54:15 2023 +0200
+
+    [There is no spoon] : Initial commit
+
+[33mcommit 4501a41d41f5c8e969f88ba7db6c3c8a1292ad3e[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Tue Oct 17 04:07:51 2023 +0200
+
+    Renamed the repository
+
+[33mcommit 75f158f20da674395f55c8d336f3fe7ce02ce39a[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Oct 16 23:41:51 2023 +0200
+
+    Update README for the midway directory
+
+[33mcommit 02d5b4fa1e7fbe725a31bdd86526335866411ba6[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Oct 16 23:35:11 2023 +0200
+
+    [Dead first search][fead]: Initial commit
+
+[33mcommit af3937a25bd8500be6680bcecb47bbb6f90672e2[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Mon Oct 16 00:54:00 2023 +0200
+
+    Added Rectangle Repartition solution
+
+[33mcommit 239e53c880bfc6d0ed7c83e92c1ec1427bba6500[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Oct 15 07:06:32 2023 +0200
+
+    [docs]:Updated README with enhanced table format for project descriptions
+
+[33mcommit 2fb0a853391ce8982b855b20e5220cc1f93b541f[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Oct 15 06:32:08 2023 +0200
+
+    Added and updated README files for each level directory
+
+[33mcommit 4064a9f7e26e1d26a5336f8cfc1f04585b01bd31[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Oct 15 04:11:49 2023 +0200
+
+    [Shadows of the Knight][feat] : Initial commit
+
+[33mcommit 7f34f2e6be63334556368b34e7a60375ab1174ec[m
+Author: Tom Souillard <tom.souillard@gmail.com>
+Date:   Sun Oct 15 03:19:13 2023 +0200
+
+    Migration des anciens dépôts vers codingames_solutions
