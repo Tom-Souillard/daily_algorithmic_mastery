@@ -14,7 +14,7 @@ class Solution:
         return 0 if inverse < -2 ** 31 or inverse > 2 ** 31 - 1 else inverse
 
 
-# Additional test cases
+# Test cases
 sol = Solution()
 print(sol.reverse(123))  # Expected output: 321
 print(sol.reverse(-123))  # Expected output: -321
